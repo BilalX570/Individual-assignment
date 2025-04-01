@@ -36,7 +36,7 @@ int findSecondOrThirdLargest(int arr[], int size, int position) {
 }
 
 int main() {
-    int arr[] = {10, 20, 4, 45, 99, 6, 99};
+    int arr[] = {10, 20, 4, 45, 96, 6, 99};
     int size = sizeof(arr) / sizeof(arr[0]);
 
     cout << "Second largest: " << findSecondOrThirdLargest(arr, size, 2) << endl; // Output: 45
