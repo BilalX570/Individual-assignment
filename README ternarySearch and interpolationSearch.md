@@ -46,9 +46,3 @@ Interpolation Search is an improved search method used on **sorted arrays with u
 - **Worst Case**: O(N), especially when data is not uniformly distributed
 
 
-## 🧪 How to Run
-
-1. Save the code in a file named `search_algorithms.cpp`
-2. Compile the program using g++:
-   ```bash
-   g++ search_algorithms.cpp -o search_algorithms
